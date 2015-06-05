@@ -22,6 +22,7 @@ android {
 dependencies {
     compile 'com.android.support:appcompat-v7:22.1.1'
     compile 'com.android.support:cardview-v7:22.1.1'
+    compile 'com.github.andkulikov:transitions-everywhere:1.4.0'
 }
 
 apply from: '../config/static_analysis.gradle'
